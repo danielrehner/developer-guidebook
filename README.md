@@ -9,11 +9,11 @@ as well as from the pursuit of truth he inspired.
 - Take frequent, short walks to think.
 ### People
 - [Treat every person like they're infinitely valuable.](pages/treat-every-person-like-theyre-infinitely-valuable.md)
-- Invest in others, especially when you have no time.
+- [Invest in others, especially when you have no time.](pages/invest-in-people.md)
 ### Problem-solving
 - [Fix things twice.](pages/fix-things-twice.md)
 - Have an athletic mindset.
-- Make smart use of templates and checklists. 
+- Use templates and checklists.
 ### Coding
 - [Stop doing code reviews.](pages/stop-doing-code-reviews.md)
 

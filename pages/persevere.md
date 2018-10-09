@@ -2,15 +2,15 @@
 
 Anything significant will be harder than you think.
 
-Keep going anyway.
+Keep going.
 
 Anything significant will take longer than you think.
 
-Keep going anyway.
+Keep going.
 
 Things will get more challenging.
 
-Never stop anyway. Embrace it.
+Never stop. Embrace it.
 
 Never stop doing.
 
