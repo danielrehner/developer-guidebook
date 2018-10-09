@@ -16,6 +16,10 @@ Look at artifacts aside from the code:
 - Have appropriate automated tests been written?
 - Have appropriate manual tests been executed?
 
+Pull up the app and test the change yourself.
+- Is this change easy to test?
+  * If not, why? Can you make it easier?
+
 Then, and only then, look at the code:
 - Is the code written to be read?
 - Is the code in better shape than it was found?
