@@ -18,6 +18,7 @@ as well as from the pursuit of truth he inspired.
 - Have an athletic mindset.
 - Use templates and checklists.
 - Ruminate before solving.
+- [Know what normal looks like.](pages/know-what-normal-looks-like.md)
 ### Coding
 - [Stop doing code reviews.](pages/stop-doing-code-reviews.md)
 - Stick to standards and conventions.
