@@ -20,7 +20,7 @@ and from the pursuit of truth he inspires.
 - [Communication matters more than code.](pages/communication-matters-more-than-code.md)
 - [Fix things twice.](pages/fix-things-twice.md)
 - [Have an athletic mindset.](pages/have-an-athletic-mindset.md)
-- [Use a checklist.](pages/use-a-checklist.md)
+- [Use a checklist (even for checklists).](pages/use-a-checklist.md)
 - [Build assets, not one-offs.](pages/build-assets.md)
 - [Know what normal looks like.](pages/know-what-normal-looks-like.md)
 ### Coding
