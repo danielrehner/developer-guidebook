@@ -6,7 +6,7 @@ Anything significant will be harder than you think.
 
 Anything significant will take longer than you think.
 
-    Be patient with the years.
+    Be patient with the months and years.
 
 Things will get more challenging.
 

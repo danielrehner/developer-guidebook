@@ -1,6 +1,6 @@
 # Listening is the best thing you can do for someone.
 
-One on one conversations are incredibly powerful.
+One-on-one conversations are incredibly powerful.
 
 By talking through things with another person, you can make discoveries you simply can't make any other way.
 Helping someone make a discovery like that - or making one yourself - is immensely fulfilling.

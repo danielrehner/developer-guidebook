@@ -14,4 +14,4 @@ Avoid deviating from standards and conventions unless there's actually an excell
 
 Ask: Is there a better or entirely different way to accomplish this feature or fix without deviating from convention?
 
-If your gut is telling your something doesn't feel right, trust it. Keep looking and asking questions until you find the reason for that feeling.
+If your gut is telling you something doesn't feel right, trust it. Keep looking and asking questions until you find the reason for that feeling.

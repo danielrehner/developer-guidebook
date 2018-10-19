@@ -6,6 +6,7 @@ If you can make a quick code change or data change to alleviate pain for the cus
 Then, go back.
 Determine the real cause of the real problem.
 Fix the root cause of the problem in this case.
+
 Some people might tell you to apply a root cause analysis tool like the [5 Whys](https://en.wikipedia.org/wiki/5_Whys) technique:
 ```
 - Why did this problem happen?
@@ -16,8 +17,8 @@ Some people might tell you to apply a root cause analysis tool like the [5 Whys]
 ... rinse and repeat about 5 times.
 ```
 
-What most people don't tell you is that in the real world the causes of problems are multi-faceted,
-so you're likely to find problems and opportunities for improvement at all levels of this analysis:
+What most people don't tell you is the causes of problems are multi-faceted,
+so you're likely to find multiple causes and opportunities for improvement at all levels of this analysis:
 ```
 - Why did this problem happen?
 - Because of item A,
@@ -27,7 +28,7 @@ so you're likely to find problems and opportunities for improvement at all level
     and deployment process problem #3,
     and business leadership problem #17,
     and customer #34 was upset,
-    and Mike was out last week.
+    and Joey was out last week.
 - So, why did all that happen?
 - Not even sure where to go from here....
 ```
@@ -42,8 +43,8 @@ List several possible changes you could make to help improve things and/or avoid
 Then, pick one and focus on implementing it until it sticks.
 If you pick more than one, you won't end up doing any of them.
 
-Another thing people don't tell you is that in actuality, you can't just try to eliminate this particular problem.
-You have to think at a higher level and, as far as possible, **also work to eliminate this entire class of problem**.
+Another thing people don't tell you is that you can't just try to eliminate this particular problem.
+You have to think at a higher level and, as far as possible, **also work to eliminate this entire category of problem**.
 
 If the problem was a coding issue, can you automate several static code checks that will completely eliminate the possiblity of this or any other similar problem from occurring again?
 

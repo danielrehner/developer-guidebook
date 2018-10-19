@@ -2,7 +2,7 @@
 
 Create checklists for anything important you do regularly.
 
-Write down your current process for it step-by-step so anyone could come along and execute that process exactly the way you do.
+Write down your current process step-by-step so anyone could come along and execute that process exactly the way you do.
 
 You'll go faster because you can order the steps on your checklist in the most optimal order.
 With repetition of the same steps in the same order, you'll speed up even more.

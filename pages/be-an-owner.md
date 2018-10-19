@@ -19,8 +19,7 @@ Advocate for technical and business ideas you have.
 
 Act as a steward of the highest order.
 
-Grab responsibility, especially when no on is asking you to.
+Grab responsibility, especially when no one is asking you to.
 
-And watch everything about how you operate and what you produce skyrocket.
-
+Then, watch everything about how you operate and what you produce skyrocket.
 
