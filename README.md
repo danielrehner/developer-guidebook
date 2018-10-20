@@ -27,4 +27,5 @@ and from the pursuit of truth he inspires.
 - [Stop doing code reviews.](pages/stop-doing-code-reviews.md)
 - [Stick to standards and conventions.](pages/stick-to-standards-and-conventions.md)
 - [Small refactorings compound.](pages/small-refactorings-compound.md)
+- [Find the flow.](pages/find-the-flow.md)
 
