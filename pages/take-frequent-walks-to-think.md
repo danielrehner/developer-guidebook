@@ -7,7 +7,7 @@ It allows you to ask questions like,
  - Am I approaching this problem from the right angle?
  - Do I have all the information I really need?
 
-Breaks allows thoughts to occur to you that would not while you're locked in concentration and intensely focused on the problem.
+Breaks allow thoughts to occur to you that would not while you're locked in concentration and intensely focused on the problem.
 Often, those thoughts will take you to even better solutions faster.
 
 Take a walk. No, really. Go now.
